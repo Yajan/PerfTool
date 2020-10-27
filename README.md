@@ -1,5 +1,5 @@
-#Perftool
-The Performance Tool
+# Perftool
+The Performance analysis Tool
 
 Features
 Measure the time taken for the execution of system commands and record the performance while executing
